@@ -12,8 +12,24 @@ public class Student {
         this.facultyNumber = facultyNumber;
     };
 
+    public String getName() {
+        return this.name;
+    }
+
+    public int getFacultyNumber() {
+        return this.facultyNumber;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
     public String getInformation() {
         return "Name, " + name + ", Faculty Number" + facultyNumber + ", University" + university;
+    }
+
+    public void printCard() {
+        StudentPrinter.print(this);
     }
 
 
