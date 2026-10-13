@@ -2,17 +2,21 @@ package bg.tu_varna.sit.lab2.classroom.ex9;
 
 public class App {
     public static void main(String args[]) {
-        Student student1 = new Student("Ferhat", 25621613);
-        Student student2 = student1;
-        Student student3 = new Student( "Barush", 25627513);
+        StudentClass studentClass1 = new StudentClass("Ferhat", 25621613);
+        StudentClass studentClass2 = studentClass1;
+        StudentClass studentClass3 = new StudentClass( "Barush", 25627513);
 
-        System.out.println(student1 == student2);
-        System.out.println(student1 == student3);
+        System.out.println(studentClass1 == studentClass2);
+        System.out.println(studentClass1 == studentClass3);
 
-        student2.setName("Petur");
+        studentClass2.setName("Petur");
 
-        student1.getInformation();
+        studentClass1.getInformation();
 
-        StudentPrinter.print(student3);
+        StudentPrinter.print(studentClass3);
+
+        Student recordStudent = new Student("Sechil", 25621232);
+
+        System.out.println(recordStudent.Name());
     }
 }
