@@ -5,6 +5,7 @@ public class StudentClass {
     private int facultyNumber;
 
     // Статичното поле принадлежи на класа и е общо за всички обекти.
+//    this не може да се използва в статичен метод, защото той няма текущ обект.
     public static String university;
 
     public StudentClass(String name, int facultyNumber) {
