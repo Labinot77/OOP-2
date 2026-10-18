@@ -1,7 +1,7 @@
 package bg.tu_varna.sit.lab2.classroom.ex9;
 
 public class App {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         StudentClass studentClass1 = new StudentClass("Ferhat", 25621613);
         StudentClass studentClass2 = studentClass1;
         StudentClass studentClass3 = new StudentClass( "Barush", 25627513);

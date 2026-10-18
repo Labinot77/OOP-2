@@ -14,6 +14,9 @@ public class App {
 
         room101.setFloor(5);
 
+
+        ClassroomReport classroomReport = new ClassroomReport(5, 5);
+
         System.out.println(room101.getDescription());
 
 

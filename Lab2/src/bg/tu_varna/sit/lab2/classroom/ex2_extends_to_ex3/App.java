@@ -1,6 +1,8 @@
 package bg.tu_varna.sit.lab2.classroom.ex2_extends_to_ex3;
 
-import static bg.tu_varna.sit.lab2.classroom.ex2_extends_to_ex3.Utils.print;
+//import static bg.tu_varna.sit.lab2.classroom.src.bg.tu_varna.sit.lab3.Utils.print;
+
+import bg.tu_varna.sit.lab2.classroom.Utils;
 
 public class App {
     public static void main(String[] args) {
@@ -10,6 +12,6 @@ public class App {
         System.out.println(room.calculateVolume());
         System.out.println(room.getDescription());
 
-        print("Thank you");
+        Utils.print("Thank you");
     }
 }

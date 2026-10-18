@@ -1,5 +1,7 @@
 package bg.tu_varna.sit.lab2.classroom.ex1;
 
+import static bg.tu_varna.sit.lab2.classroom.Utils.print;
+
 public class App {
     public static void main(String[] args) {
         Cat cat = new Cat();
@@ -9,10 +11,10 @@ public class App {
         cat.setAge(3);
         cat.setWeight(4.2);
 
-        System.out.println(cat.getName());
-        System.out.println(cat.getBreed());
-        System.out.println(cat.getAge());
-        System.out.println(cat.getWeight());
+        print(cat.getName());
+        print(cat.getBreed());
+        print(cat.getAge());
+        print(cat.getWeight());
     }
 
 }
