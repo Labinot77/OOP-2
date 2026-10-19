@@ -2,44 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ac0e36f-cd17-4e75-bf66-d8a0bdae1418" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task7/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task7/CategoryTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task7/Clothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task7/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task7/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task8/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task8/SafeGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab3/src/src/bg/tu_varna/sit/lab3/task8/StudentCardRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task1/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task2/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task2/Movement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Movement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task3/Wild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/DepositAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/Depositable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/Individual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/LoanAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/MortgageAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/bonus/Withdrawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task4/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task4/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task4/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task5/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task5/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/bg/tu_varna/sit/lab4/task5/Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ClassroomType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ClassroomType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex1/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex2_extends_to_ex3/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex2_extends_to_ex3/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex2_extends_to_ex3/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex9/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab2/src/bg/tu_varna/sit/lab2/classroom/ex9/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/src/ex1/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/src/ex1/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab3/src/ex1/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP-2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,24 +63,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\University\OOP-2" />
